@@ -1,7 +1,7 @@
 # Hebbian-Rule-Algorithm
 Implementation of hebbian rule algorithm in cpp
 
-Input Matrix:
+Input Matrix: <br>
 -1 -1 1 <br>
 -1 1 1 <br>
 1 -1 1 <br>
