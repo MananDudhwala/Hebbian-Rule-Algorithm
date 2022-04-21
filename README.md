@@ -2,9 +2,9 @@
 Implementation of hebbian rule algorithm in cpp
 
 Input Matrix:
--1 -1 1
--1 1 1
-1 -1 1
+-1 -1 1 <br>
+-1 1 1 <br>
+1 -1 1 <br>
 1  1 1
 
 Binary Target:
